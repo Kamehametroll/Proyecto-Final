@@ -1,0 +1,41 @@
+C:\Users\Kamehametroll\Desktop\Tarea\Programación 2\ProyectoFinal-master\ProyectoF\ProyectoF\bin\Debug\ProyectoF.exe.config
+C:\Users\Kamehametroll\Desktop\Tarea\Programación 2\ProyectoFinal-master\ProyectoF\ProyectoF\bin\Debug\ProyectoF.exe
+C:\Users\Kamehametroll\Desktop\Tarea\Programación 2\ProyectoFinal-master\ProyectoF\ProyectoF\bin\Debug\ProyectoF.pdb
+C:\Users\Kamehametroll\Desktop\Tarea\Programación 2\ProyectoFinal-master\ProyectoF\ProyectoF\obj\Debug\ProyectoF.csprojAssemblyReference.cache
+C:\Users\Kamehametroll\Desktop\Tarea\Programación 2\ProyectoFinal-master\ProyectoF\ProyectoF\obj\Debug\ProyectoF.csproj.CoreCompileInputs.cache
+C:\Users\Kamehametroll\Desktop\Tarea\Programación 2\ProyectoFinal-master\ProyectoF\ProyectoF\obj\Debug\ProyectoF.exe
+C:\Users\Kamehametroll\Desktop\Tarea\Programación 2\ProyectoFinal-master\ProyectoF\ProyectoF\obj\Debug\ProyectoF.pdb
+C:\Users\Elvis G Batista\Documents\GitHub\ProyectoFinal\ProyectoF\ProyectoF\bin\Debug\ProyectoF.exe.config
+C:\Users\Elvis G Batista\Documents\GitHub\ProyectoFinal\ProyectoF\ProyectoF\bin\Debug\ProyectoF.exe
+C:\Users\Elvis G Batista\Documents\GitHub\ProyectoFinal\ProyectoF\ProyectoF\bin\Debug\ProyectoF.pdb
+C:\Users\Elvis G Batista\Documents\GitHub\ProyectoFinal\ProyectoF\ProyectoF\obj\Debug\ProyectoF.csprojAssemblyReference.cache
+C:\Users\Elvis G Batista\Documents\GitHub\ProyectoFinal\ProyectoF\ProyectoF\obj\Debug\ProyectoF.csproj.CoreCompileInputs.cache
+C:\Users\Elvis G Batista\Documents\GitHub\ProyectoFinal\ProyectoF\ProyectoF\obj\Debug\ProyectoF.exe
+C:\Users\Elvis G Batista\Documents\GitHub\ProyectoFinal\ProyectoF\ProyectoF\obj\Debug\ProyectoF.pdb
+C:\Users\dejim\Source\Repos\ProyectoFinal\ProyectoF\ProyectoF\bin\Debug\ProyectoF.exe.config
+C:\Users\dejim\Source\Repos\ProyectoFinal\ProyectoF\ProyectoF\bin\Debug\ProyectoF.exe
+C:\Users\dejim\Source\Repos\ProyectoFinal\ProyectoF\ProyectoF\bin\Debug\ProyectoF.pdb
+C:\Users\dejim\Source\Repos\ProyectoFinal\ProyectoF\ProyectoF\obj\Debug\ProyectoF.csproj.CoreCompileInputs.cache
+C:\Users\dejim\Source\Repos\ProyectoFinal\ProyectoF\ProyectoF\obj\Debug\ProyectoF.exe
+C:\Users\dejim\Source\Repos\ProyectoFinal\ProyectoF\ProyectoF\obj\Debug\ProyectoF.pdb
+C:\Users\dejim\Source\Repos\ProyectoFinal\ProyectoF\ProyectoF\obj\Debug\ProyectoF.csprojAssemblyReference.cache
+C:\Users\Kamehametroll\Desktop\Tarea\Programación 2\ProyectoFinal-master\ProyectoF\ProyectoF\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kamehametroll\Desktop\Tarea\Programación 2\ProyectoFinal-master\ProyectoF\ProyectoF\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Kamehametroll\Desktop\Tarea\Programación 2\ProyectoFinal-master\ProyectoF\ProyectoF\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kamehametroll\Desktop\Tarea\Programación 2\ProyectoFinal-master\ProyectoF\ProyectoF\obj\Debug\ProyectoF.csproj.CopyComplete
+C:\Users\dejim\Source\Repos\ProyectoFinal\ProyectoF\ProyectoF\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dejim\Source\Repos\ProyectoFinal\ProyectoF\ProyectoF\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\dejim\Source\Repos\ProyectoFinal\ProyectoF\ProyectoF\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dejim\Source\Repos\ProyectoFinal\ProyectoF\ProyectoF\obj\Debug\ProyectoF.csproj.CopyComplete
+C:\Users\dejim\Source\Repos\ProyectoFinal\ProyectoF\ProyectoF\bin\Debug\EPPlus.dll
+C:\Users\dejim\Source\Repos\ProyectoFinal\ProyectoF\ProyectoF\bin\Debug\EPPlus.xml
+C:\Users\dejim\Source\Repos\ProyectoFinal\ProyectoF\ProyectoF\bin\Debug\GemBox.Spreadsheet.dll
+C:\Users\dejim\Source\Repos\ProyectoFinal\ProyectoF\ProyectoF\bin\Debug\GemBox.Spreadsheet.xml
+C:\Users\dejim\Source\Repos\ProyectoFinal\ProyectoF\ProyectoF\bin\Debug\Spire.Common.dll
+C:\Users\dejim\Source\Repos\ProyectoFinal\ProyectoF\ProyectoF\bin\Debug\Spire.License.dll
+C:\Users\dejim\Source\Repos\ProyectoFinal\ProyectoF\ProyectoF\bin\Debug\Spire.Pdf.dll
+C:\Users\dejim\Source\Repos\ProyectoFinal\ProyectoF\ProyectoF\bin\Debug\Spire.XLS.dll
+C:\Users\dejim\Source\Repos\ProyectoFinal\ProyectoF\ProyectoF\bin\Debug\Microsoft.mshtml.dll
+C:\Users\dejim\Source\Repos\ProyectoFinal\ProyectoF\ProyectoF\bin\Debug\Spire.Common.xml
+C:\Users\dejim\Source\Repos\ProyectoFinal\ProyectoF\ProyectoF\bin\Debug\Spire.Pdf.xml
+C:\Users\dejim\Source\Repos\ProyectoFinal\ProyectoF\ProyectoF\bin\Debug\Spire.XLS.xml
